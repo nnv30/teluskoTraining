@@ -1,0 +1,6 @@
+In this session we will learn about how to order pizza in dominozz:
+
+1. Open dominoz app.(If not installed, please install it. It is available in playstore for free.)
+2. Look for the combo offers. There will be several combo offers.
+3. Search for what you want and then book your pizza.
+4. It will be delivered to your location within 30min.
